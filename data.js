@@ -8,3 +8,5 @@ console.log(message);
 
 let doeslikesfortnite = "doeslikesfortnite"
 console.log(doeslikesfortnite)
+
+let doesnothaveagameboy=
