@@ -1,12 +1,5 @@
-const READLINE = require("readline-sync");
 
-// use whatever properties you want for the player object
-let player = {
-  name: undefined,
-  courage: 0,
-  intellect: 0,
-  strength: 0,
-  charm: 0,
+charm: 0,
   weapon: "fists",
   item: "flashlight",
 catchphrase

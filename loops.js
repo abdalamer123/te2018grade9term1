@@ -11,10 +11,22 @@ stringTimes("Hi", 1) → "Hi"
 
 function stringTimes(str, n) {
 
+let str2 = ''
+
+for (let i = 1; 1<= ; i++){
+
+  str2+str 
+return str2
 }
 
+
+
+
+
+
+
 // Remove comment below to test this function.
-//testStringTimes();
+testStringTimes();
 
 /******************************************************************************
                                    countXX()
@@ -24,15 +36,28 @@ allowed, so "xxx" contains 2 "xx".
 Examples:
 countXX("abcxx") → 1
 countXX("xxx") → 2
-countXX("xxxx") → 3
-*******************************************************************************/
+countXX("xxxx") → 
+*****************************************************************/
 
 function countXX(str) {
+let str3 = ''
 
+for(let i = 0; i < str.lenght= -1 ;i++ ){
+
+if(str(i)== 'x'
+
+
+ }
 }
 
+
+
+
+
+
+
 // Remove comment below to test this function.
-//testCountXX();
+testCountXX();
 
 /******************************************************************************
                                    bobThere()

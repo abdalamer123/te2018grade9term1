@@ -10,6 +10,9 @@ withoutEnd("coding") → "odin"
 *******************************************************************************/
 
 function withoutEnd(str) {
+let newstr= str.substring(0, str.length-1)
+return
+
 
 }
 
@@ -68,11 +71,18 @@ without2("Hi") → ""
 *******************************************************************************/
 
 function without2(str) {
+let firsttwo =str.substring(0,2)
+let secondtwo = str.substring(,str.length)
+
+
+
+
+
 
 }
 
 // Test this function.
-//testWithout2();
+testWithout2();
 
 /******************************************************************************
                                    withoutX2()
